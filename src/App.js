@@ -71,3 +71,7 @@ function Button({ textColor, bgColor, onClick, text, emoji, children }) {
     </button>
   );
 }
+
+function a() {
+  console.log("yes");
+}
